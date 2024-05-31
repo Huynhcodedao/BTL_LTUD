@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|c:\\users\\p50\\source\\repos\\qlsinhvien\\svdangkyhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:svdangkyhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\svdangkyhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:svdangkyhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|c:\\users\\p50\\source\\repos\\qlsinhvien\\svanalysissv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:svanalysissv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\svnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:svnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|c:\\users\\p50\\source\\repos\\qlsinhvien\\qlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\qlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|c:\\users\\p50\\source\\repos\\qlsinhvien\\qlthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\qlthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\qlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\qlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|c:\\users\\p50\\source\\repos\\qlsinhvien\\qlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|c:\\users\\p50\\source\\repos\\qlsinhvien\\qllop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qllop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\qlkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\svthongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:svthongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\svthongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:svthongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|C:\\Users\\P50\\source\\repos\\QLSinhVien\\qlkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFF948-9C9A-4189-B85C-8AE2A17FF444}|QLSinhVien.csproj|solutionrelative:qlkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SVDangKyHoc.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVDangKyHoc.cs",
+              "RelativeDocumentMoniker": "SVDangKyHoc.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVDangKyHoc.cs",
+              "RelativeToolTip": "SVDangKyHoc.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:09:15.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SVanalysisSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVanalysisSV.cs",
+              "RelativeDocumentMoniker": "SVanalysisSV.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVanalysisSV.cs [Design]",
+              "RelativeToolTip": "SVanalysisSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:08:42.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLThongKe.cs",
+              "RelativeDocumentMoniker": "QLThongKe.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLThongKe.cs",
+              "RelativeToolTip": "QLThongKe.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAYwL0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:03:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLmonhoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLmonhoc.cs",
+              "RelativeDocumentMoniker": "QLmonhoc.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLmonhoc.cs [Design]",
+              "RelativeToolTip": "QLmonhoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:59:36.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QLlop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLlop.cs",
+              "RelativeDocumentMoniker": "QLlop.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLlop.cs [Design]",
+              "RelativeToolTip": "QLlop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:59:32.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SVDangKyHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVDangKyHoc.cs",
+              "RelativeDocumentMoniker": "SVDangKyHoc.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVDangKyHoc.cs [Design]",
+              "RelativeToolTip": "SVDangKyHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:48:45.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SVThongTinCaNhan.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVThongTinCaNhan.cs",
+              "RelativeDocumentMoniker": "SVThongTinCaNhan.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVThongTinCaNhan.cs",
+              "RelativeToolTip": "SVThongTinCaNhan.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:48:14.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SVThongTinCaNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVThongTinCaNhan.cs",
+              "RelativeDocumentMoniker": "SVThongTinCaNhan.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVThongTinCaNhan.cs [Design]",
+              "RelativeToolTip": "SVThongTinCaNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:48:06.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SVnguoidung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVnguoidung.cs",
+              "RelativeDocumentMoniker": "SVnguoidung.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\SVnguoidung.cs [Design]",
+              "RelativeToolTip": "SVnguoidung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:47:29.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QLThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLThongKe.cs",
+              "RelativeDocumentMoniker": "QLThongKe.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLThongKe.cs [Design]",
+              "RelativeToolTip": "QLThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:46:16.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLsinhvien.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLsinhvien.cs",
+              "RelativeDocumentMoniker": "QLsinhvien.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLsinhvien.cs",
+              "RelativeToolTip": "QLsinhvien.cs",
+              "ViewState": "AQIAAKABAAAAAAAAAAAAAMIBAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:58:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLsinhvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLsinhvien.cs",
+              "RelativeDocumentMoniker": "QLsinhvien.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLsinhvien.cs [Design]",
+              "RelativeToolTip": "QLsinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:57:32.082Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRegister.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\LoginRegister.cs",
+              "RelativeDocumentMoniker": "LoginRegister.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\LoginRegister.cs",
+              "RelativeToolTip": "LoginRegister.cs",
+              "ViewState": "AQIAAJYBAAAAAAAAAAAAADEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:47:11.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\LoginRegister.cs",
+              "RelativeDocumentMoniker": "LoginRegister.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\LoginRegister.cs [Design]",
+              "RelativeToolTip": "LoginRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:47:04.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QLkhoa.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLkhoa.cs",
+              "RelativeDocumentMoniker": "QLkhoa.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLkhoa.cs",
+              "RelativeToolTip": "QLkhoa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:40:15.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QLkhoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLkhoa.cs",
+              "RelativeDocumentMoniker": "QLkhoa.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLkhoa.cs [Design]",
+              "RelativeToolTip": "QLkhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:40:09.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLMenu.cs",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLMenu.cs",
+              "RelativeDocumentMoniker": "QLMenu.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLMenu.cs",
+              "RelativeToolTip": "QLMenu.cs",
+              "ViewState": "AQIAALoDAAAAAAAAAAAAAMUDAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:34:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLMenu.cs",
+              "RelativeDocumentMoniker": "QLMenu.cs",
+              "ToolTip": "C:\\Users\\P50\\source\\repos\\QLSinhVien\\QLMenu.cs [Design]",
+              "RelativeToolTip": "QLMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:34:38.476Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
